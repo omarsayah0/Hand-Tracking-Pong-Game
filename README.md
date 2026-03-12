@@ -228,7 +228,7 @@ Example gameplay screenshots can be added here.
 
 # 👨‍💻 Contributors
 
-**Omar Alethamat** – AI Engineer
+**Omar Al ethamat** – AI Engineer
 
 Feel free to open issues or pull requests.
 
