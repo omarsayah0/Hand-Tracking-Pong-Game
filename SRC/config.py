@@ -19,10 +19,10 @@ RIGHT_GOAL_LIMIT = 1200
 PREVIEW_X1, PREVIEW_X2 = 20, 233
 PREVIEW_Y1, PREVIEW_Y2 = 580, 700
 
-BACKGROUND_IMAGE = "img/Background4.png"
-GAME_OVER_IMAGE = "img/gameOver3.png"
+BACKGROUND_IMAGE = "img/Background.png"
+GAME_OVER_IMAGE = "img/gameOver.png"
 BALL_IMAGE = "img/Ball.png"
 BAT1_IMAGE = "img/bat1.png"
 BAT2_IMAGE = "img/bat2.png"
 
-MUSIC_FILE = "sound/m.mp3"
+MUSIC_FILE = "sound/music.mp3"
